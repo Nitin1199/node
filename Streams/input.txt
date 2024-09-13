@@ -1,0 +1,3 @@
+This file will be read in stream form
+
+This is going to be fun working with stream's
